@@ -1,6 +1,7 @@
 # dice_app
 
 A new Flutter project.
+This is basic My flutter project for Rolling dice .
 
 ## Getting Started
 
